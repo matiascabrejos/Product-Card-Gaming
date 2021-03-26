@@ -1,0 +1,23 @@
+{
+  "name": "ProductCardSwitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiascabrejos/Product-Card-Gaming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiascabrejos/Product-Card-Gaming/issues"
+  },
+  "homepage": "https://github.com/matiascabrejos/Product-Card-Gaming#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
